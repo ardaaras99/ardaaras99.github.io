@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Arda Can Aras"
-  avatar           : "profile.png"
+  avatar           : "arda-img.png"
   bio              : "Natural Language Processing & Graph Representation Learning"
   location         : "Ankara, Turkey"
   employer         : "Bilkent University"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/arda-can-aras/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
