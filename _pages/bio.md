@@ -5,7 +5,7 @@ permalink: /bio/
 author_profile: true
 ---
 
-I express deep gratitude for the invaluable education and the recognition that has enriched my life's journey. I consider myself fortunate to have had the opportunity to attend excellent institutions, where I not only acquired knowledge but also garnered a collection of awards and honors.
+I express gratitude for the invaluable education and the recognition that has enriched my life's journey. I consider myself fortunate to have had the privilege of attending outstanding institutions, where I not only acquired knowledge but also earned a collection of awards and honors.
 
 Here’s a glimpse of my studies and journey so far.
 
@@ -14,7 +14,7 @@ Here’s a glimpse of my studies and journey so far.
 - **Master of Science,** *Electrical and Electronics Engineering* <br/>
   - **Institution**: Bilkent University, Ankara Turkey
   - **Advisor**: [Associate Prof. Aykut Koç](http://aykut.koc.bilkent.edu.tr/)
-  - **Thesis**: Ongoing <br />
+  - **Thesis**: Novel Graph Neural Network Algorithms for Sentiment Analysis (ongoing) <br />
     2021 - present
 
 - **Bachelor of Science,** *Electrical and Electronics Engineering* <br/>
