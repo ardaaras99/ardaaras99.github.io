@@ -11,6 +11,9 @@ main:
 
   - title: "Service"
     url: /service/    
+
+  - title: "Bio"
+    url: /bio/    
     
   # - title: "Portfolio"
   #   url: /portfolio/

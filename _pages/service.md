@@ -6,16 +6,14 @@ author_profile: true
 ---
 I've been fortunate to engage in diverse service-oriented activities, offering me invaluable opportunities for both personal and professional development. Whether in academia or industry, my commitment has always been to make a positive impact and contribute meaningfully to the community.
 
-# Academic Duties
-
 ## Teaching Assistant
 
 - **Instution**: Bilkent University <br/>
-**Location**: Ankara, Turkey <br/>
-**Time Period**: 2019-2023 <br/>
-    **CS 115**: Introduction to Python Programming <br/>
-    **EE 212**: Microprocessors <br/>
-    **EE 486/586**: Statistical Foundations of NLP<br/>
+- **Location**: Ankara, Turkey <br/>
+- **Time Period**: 2019-2023 <br/>
+  - **CS 115**: Introduction to Python Programming <br/>
+  - **EE 212**: Microprocessors <br/>
+  - **EE 486/586**: Statistical Foundations of NLP<br/>
 
 ## Work Experience
 
@@ -23,7 +21,7 @@ I've been fortunate to engage in diverse service-oriented activities, offering m
 **Location**: Ankara, Turkey <br/>
 **Role**: Research Scientist <br/>
 **Project**: Research on NLP & GRL <br/>
-**Time Period**: June 2021 - Current
+**Time Period**: August 2021 - Current
 
 - **Instution**: [Turk Telekom](https://www.turktelekom.com.tr/en/) <br/>
 **Location**: Ankara, Turkey <br/>
