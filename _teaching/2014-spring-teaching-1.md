@@ -1,24 +1,14 @@
 ---
-title: "Academic Duties"
+title: "Teaching experience 1"
 collection: teaching
-type: ""
+type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Bilkent University"
-date: 2020-2023
-location: "Ankara, Turkey"
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
-# Teaching Assistant
-
-## Instution: Bilkent University
-
-## Location: Ankara, Turkey
-
-### CS 115: Introduction to Programming in Python
-
-### EE 212: Microprocessors
-
-### EE 486/586: Statistical Foundations of Natural Language Processing
+This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
