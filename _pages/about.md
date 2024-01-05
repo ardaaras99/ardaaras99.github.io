@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a M.Sc. student at Bilkent University in Electrical and Electronics Engineering where I work with [Associcate Prof. Aykut Koç](http://aykut.koc.bilkent.edu.tr/). I received my bachelor's degree also from Bilkent University.
+I'm an M.Sc. student at Bilkent University in Electrical and Electronics Engineering where I work with [Associcate Prof. Aykut Koç](http://aykut.koc.bilkent.edu.tr/). I received my bachelor's degree also from Bilkent University.
 
 My scholarly curiosity is deeply rooted in the field of Natural Language Processing (NLP), specifically in its usage with in the Graph Represenation Learning (GRL) domain.
 
