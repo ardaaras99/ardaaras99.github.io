@@ -12,6 +12,8 @@ I'm a M.Sc. student at Bilkent University where I work with [Aykut Koç](http://
 
 My scholarly curiosity is deeply rooted in the field of Natural Language Processing (NLP), specifically in its usage with in the Graph Represenation Learning (GRL) domain.
 
+My research is dedicated to unraveling the theoretical foundations of existing limitations and crafting innovative solutions to mitigate these challenges. Central to my endeavors is the creation of end-to-end training algorithms tailored for Generalized Representation Learning (GRL). I am committed to formulating a comprehensive strategy that not only transcends the current boundaries of understanding but also serves as a catalyst for the advancement of safer and more resilient learning systems in real-world applications.
+
 **My current research spans various areas, encompassing, but not limited to:**
 
 - semi-supervised fine-tuning of LLMs
