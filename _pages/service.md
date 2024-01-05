@@ -21,13 +21,13 @@ I've been fortunate to engage in diverse service-oriented activities, offering m
 **Location**: Ankara, Turkey <br/>
 **Role**: Research Scientist <br/>
 **Project**: Research on NLP & GRL <br/>
-**Time Period**: August 2021 - Current
+**Time Period**: August 2021 - present
 
 - **Instution**: [Turk Telekom](https://www.turktelekom.com.tr/en/) <br/>
 **Location**: Ankara, Turkey <br/>
 **Role**: R&D Operations Specialist <br/>
 **Project**: Research on graph algorithms for 5G. <br/>
-**Time Period**: May 2022 - Current
+**Time Period**: May 2022 - present
 
 - **Instution**: [DataBoss Inc.](https://www.data-boss.com.tr/) <br/>
 **Location**: Ankara, Turkey <br/>
