@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Arda Can Aras"
   avatar           : "arda-img.png"
-  bio              : "Natural Language Processing & Graph Representation Learning"
+  bio              : "NLP & GRL"
   location         : "Ankara, Turkey"
   employer         : "Bilkent University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=jqUGVIwAAAAJ&hl=tr"
   email            : "ardaaras99 at gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "arda-can-aras"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0000-0378-1779"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
