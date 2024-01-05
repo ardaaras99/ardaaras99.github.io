@@ -14,7 +14,7 @@ author_profile: true
 *IEEE Signal Processing Letters* 2023 (under review)
 
 - Trainable Fractional Fourier Transform <br/>
-Emirhan Koç, Tuna Alikaşifoğlu, **Arda Can Aras,**, Aykut Koç <br/>
+Emirhan Koç, Tuna Alikaşifoğlu, **Arda Can Aras**, Aykut Koç <br/>
 *IEEE Signal Processing Letters 2023* (under review)
 
 - Feedforward Neural Network Based Case Prediction in Turkish Higher Courts <br/>
