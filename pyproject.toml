@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "ardaaras99-github-io"
+version = "0.1.0"
+description = ""
+authors = ["Arda Can Aras <ardaaras99@gmail.com>"]
+readme = "README.md"
+packages = [{include = "ardaaras99"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+getorg = "^0.3.1"
+geopy = "^2.4.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
